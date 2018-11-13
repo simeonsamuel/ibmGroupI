@@ -1,0 +1,5 @@
+applications:
+ - name: serene-kepler
+   memory: 256M
+   host: serene-kepler
+   buildpack: staticfile_buildpack
